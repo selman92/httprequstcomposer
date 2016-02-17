@@ -1,0 +1,42 @@
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.exe.config
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.exe
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.pdb
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.csprojResolveAssemblyReference.cache
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\MainWindow.g.cs
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\App.g.cs
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer_MarkupCompile.cache
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer_MarkupCompile.lref
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\MainWindow.baml
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.g.resources
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.Properties.Resources.resources
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.csproj.GenerateResource.Cache
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.exe
+C:\Users\Selman Genc\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.pdb
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.exe.config
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.exe
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.pdb
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.exe
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.pdb
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.csprojResolveAssemblyReference.cache
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\MainWindow.g.cs
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\App.g.cs
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer_MarkupCompile.cache
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer_MarkupCompile.lref
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\MainWindow.baml
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.g.resources
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.Properties.Resources.resources
+C:\Users\Selman\Desktop\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.csproj.GenerateResource.Cache
+D:\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.exe.config
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.exe
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.pdb
+D:\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.exe
+D:\HTTPRequestComposer\HTTPRequestComposer\bin\Debug\HTTPRequestComposer.pdb
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.csprojResolveAssemblyReference.cache
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\MainWindow.g.cs
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\App.g.cs
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer_MarkupCompile.cache
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer_MarkupCompile.lref
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\MainWindow.baml
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.g.resources
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.Properties.Resources.resources
+D:\HTTPRequestComposer\HTTPRequestComposer\obj\Debug\HTTPRequestComposer.csproj.GenerateResource.Cache
